@@ -1,2 +1,2 @@
-# projeto1
-Projeto 1 de exemplo
+# Testes Claude Code
+Repositório de testes com Claude Code
